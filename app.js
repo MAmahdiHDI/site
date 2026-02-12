@@ -7,4 +7,4 @@ const login = ()=>{
     return true
 }
 
-const mahdi = 19;
+const fkdjlf = () =>{return true}
