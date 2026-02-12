@@ -6,3 +6,5 @@ const register = () => {
 const login = ()=>{
     return true
 }
+
+const fkdjlf = () =>{return true}
